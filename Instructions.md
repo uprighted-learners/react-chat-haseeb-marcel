@@ -1,4 +1,4 @@
-# React Chat Backend
+# React Chat Frontend and Backend
 
 This is your first pair/group coding project!
 
